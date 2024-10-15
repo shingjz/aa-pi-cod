@@ -1,2 +1,2 @@
-# cod-race-ethnicity
-Leading causes of death by race and ethnicity in the United States; supplemental table to doi: XXX
+# aa-pi-cod
+Leading causes of death between Asian American and Pacific Islander adults in the United States; supplemental table to doi: XXX
