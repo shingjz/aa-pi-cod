@@ -1,2 +1,2 @@
 # aa-pi-cod
-Leading causes of death between Asian American and Pacific Islander adults in the United States; supplemental table to doi: XXX
+Mortality rate ratios for the leading causes of death by sex and age among Asian American compared with Pacific Islander individuals in the United States, 2018-2020; Supplemental table to doi: XXX
